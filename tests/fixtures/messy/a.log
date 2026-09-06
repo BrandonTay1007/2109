@@ -1,0 +1,19 @@
+# fixture: messy but spec-legal formatting
+   
+
+   # indented comment
+		
+	# tab-indented comment
+2026-04-01T08:00:00Z host=h service=sshd level=ERROR event=E user=a ip=- msg="x"   	                  
+2026-04-01T08:00:01Z	host=h	service=cron	level=WARN	event=E	user=b	ip=-	msg="y"     
+2026-04-01T08:00:02Z host=h service=nginx level=INFO event=E user=c ip=- msg="z" oeicwmqroirme
+2026-04-01T08:00:03Z host=h service=authd level=DEBUG event=E user=d ip=- msg=".log" doksadopasdjuapsujdpioa NOT NOT
+2026-04-01T08:00:04Z host=h service=nginx level=EEE event=E user=e ip=- msg="saw level=ERROR here"
+2026-04-01T08:00:05Z host=h service=sshd level=ERRORX event=E user=f ip=- msg="v"
+#           sadsadsads
+
+
+
+
+
+

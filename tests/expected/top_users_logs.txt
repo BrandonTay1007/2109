@@ -1,0 +1,3 @@
+alice 9
+carol 8
+erin 7

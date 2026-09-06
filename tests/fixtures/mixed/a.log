@@ -1,0 +1,8 @@
+# fixture: mixed services
+
+2026-04-01T08:00:00Z host=web01 service=sshd level=ERROR event=FAILED_LOGIN user=alice ip=10.0.0.1 msg="invalid password"
+2026-04-01T08:00:01Z host=web01 service=sshd level=WARN event=SLOW_AUTH user=bob ip=10.0.0.2 msg="slow response"
+2026-04-01T08:00:02Z host=web01 service=cron level=INFO event=JOB_START user=- ip=- msg="job started"
+2026-04-01T08:00:03Z host=web01 service=cron level=DEBUG event=TRACE user=carol ip=- msg="trace output"
+2026-04-01T08:00:04Z host=web01 service=nginx level=- event=UNKNOWN user=- ip=- msg="no level recorded"
+2026-04-01T08:00:05Z host=web01 service=- level=INFO event=UNKNOWN user=- ip=- msg="no service recorded"

@@ -1,0 +1,2 @@
+2026-04-02T09:00:00Z host=core01 service=nginx level=ERROR event=HTTP_500 user=- ip=10.0.0.3 msg="upstream failure"
+2026-04-02T09:00:01Z host=core01 service=authd level=INFO event=TOKEN_REFRESH user=dave ip=- msg="token refreshed"

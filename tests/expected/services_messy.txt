@@ -1,0 +1,4 @@
+nginx 2
+sshd 2
+authd 1
+cron 1

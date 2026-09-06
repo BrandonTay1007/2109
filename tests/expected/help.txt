@@ -1,0 +1,18 @@
+Commands:
+    --help
+        Show this help message
+
+    summary <log_dir>
+        Print summary counts for the log directory
+
+    services <log_dir>
+        Print counts by service
+
+    failed-logins <log_dir>
+        Print failed login counts by user
+
+    report <log_dir> <output_file>
+        Generate a consolidated plain-text report
+
+    top-users <log_dir> [N]
+        Print the N most frequent usernames (default 3)

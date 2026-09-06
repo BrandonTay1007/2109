@@ -1,0 +1,14 @@
+=== LOG REPORT ===
+[OVERVIEW]
+Files scanned: 2
+Lines processed: 6
+[COUNTS BY LEVEL]
+ERROR 1
+WARN 1
+INFO 1
+[COUNTS BY SERVICE]
+nginx 2
+sshd 2
+authd 1
+cron 1
+[FAILED LOGIN USERS]
